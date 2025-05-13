@@ -9,7 +9,7 @@ export default function NewProject() {
 	]
 
 	return (
-		<div>
+		<div className="w-[35rem] mt-16">
 			<menu>
 				<li><button>Cancel</button></li>
 				<li><button>Save</button></li>
